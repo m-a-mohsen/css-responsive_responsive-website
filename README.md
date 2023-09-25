@@ -17,17 +17,18 @@ Make sure to take a good look at the preview screens.
 
 _Several hints can be found in `./css/styles.css` file._
 
-## Development
+Here are some preview screens that (hopefully) help you get an idea of what needs to be done.
 
-### Local Development
+> 💡 Hint: You will only need to create media queries for two breakpoints.
 
-Run `npm run start` to start a development server and open [localhost:3000](http://localhost:3000) in a browser.
+### Mobile Screens
 
-> Alternatively you can use the Live Preview Extension for Visual Studio Code to view this project.  
-> Select the HTML file you want to view, press <kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd>, search for `Live Preview: Show Preview` and confirm with <kbd>Enter</kbd>.
+![Mobile - 1](assets/mobile_1.png) ![Mobile - 2](assets/mobile_2.png)
 
-### Scripts
+### Tablet Screen
 
-You can use the following commands:
+![Tablet](assets/tablet.png)
 
-- `npm run start` to start a development server
+### Desktop Screen
+
+![Desktop](assets/desktop.png)
